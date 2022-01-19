@@ -1,39 +1,46 @@
-
 @import "base/reset";
 
 // Ejercicio 1A-B
-.main{   
+.main {
 }
 
-.box{
-    border: 2px solid #808080;
-    width: calc(25% - 4px);
-    padding: 5px;
-    display: inline-block;
+.box {
+  border: 2px solid #808080;
+  width: calc(25% - 4px);
+  padding: 5px;
+  display: inline-block;
 }
 
 //Ejercicio 1 B
-.main_b{   
+.main_b {
 }
 
-.box_b{
-    width: calc(25% - 4px);
-    padding: 25px;
-    display: inline-block;
-    text-align: justify;
+.box_b {
+  width: calc(25% - 4px);
+  padding: 25px;
+  display: inline-block;
+  text-align: justify;
 }
-.logo_b{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 10px;
+.logo_b {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
 }
 //Ejercicio 1 c
-.navbar{
-    margin-left:-48px;
-    margin-top: -10px;
-    padding:5px 48px;
-    position:fixed;
-    position: sticky;
-    top:0;
-    background:green;
+.navbar {
+  margin-left: -48px;
+  margin-top: -10px;
+  padding: 5px 48px;
+  position: fixed;
+  position: sticky;
+  top: 0;
+  background: green;
+}
+//ejercicio 2
+
+.sq1 {
+  z-index: 2;
+}
+.sq2 {
+  z-index: 1;
 }
