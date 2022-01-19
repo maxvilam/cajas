@@ -1,0 +1,37 @@
+body * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  border: 2px solid #808080;
+  width: calc(25% - 4px);
+  padding: 5px;
+  display: inline-block;
+}
+
+.box_b {
+  width: calc(25% - 4px);
+  padding: 25px;
+  display: inline-block;
+  text-align: justify;
+}
+
+.logo_b {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.navbar {
+  margin-left: -48px;
+  margin-top: -10px;
+  padding: 5px 48px;
+  position: fixed;
+  position: sticky;
+  top: 0;
+  background: green;
+}
+
+/*# sourceMappingURL=style.css.map */
