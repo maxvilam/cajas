@@ -44,3 +44,39 @@
 .sq2 {
   z-index: 1;
 }
+
+//ejercicio 3
+//Bandera Española
+.bandera1{
+    background: red;
+    width: 400px;
+    height: 240px;
+}
+.amarillo{
+    background: yellow;
+    position: absolute;
+    top: 80px;
+    width: 400px;
+    height: 80px;
+}
+//Bandera Dinamarca
+.bandera2{
+    background: red;
+    width: 400px;
+    height: 240px;
+}
+.blancoh{
+    background: #ffff;
+    position: relative;
+    top: 100px;
+    width: 400px;
+    height: 20px;
+}
+.blancov{
+    background: #ffff;
+    position: relative;
+    top: -20px;
+    left: 120px;
+    width: 20px;
+    height: 240px;
+}
