@@ -1,9 +1,6 @@
 @import "base/reset";
 
 // Ejercicio 1A-B
-.main {
-}
-
 .box {
   border: 2px solid #808080;
   width: calc(25% - 4px);
@@ -79,4 +76,81 @@
     left: 120px;
     width: 20px;
     height: 240px;
+}
+//Bandera Emiratos Arabes
+.bandera3{
+    background: red;
+    width: 400px;
+    height: 240px;
+}
+.ea1{
+    background: green;
+    position: relative;
+    top: 0;
+    left: 100px;
+    width: 300px;
+    height: 80px;
+}
+.ea2{
+    background:#ffff;
+    position: relative;
+    top: 0;
+    left: 100px;
+    width: 300px;
+    height: 80px;
+}
+.ea3{
+    background: black;
+    position: relative;
+    top: 0;
+    left: 100px;
+    width: 300px;
+    height: 80px;
+}
+
+.bandera4{
+  background: white;
+  width: 400px;
+  height: 240px;
+  border: 1px solid black;
+}
+.jp1{
+  background: red;
+  position: relative;
+  top: calc(50% - 40px);
+  left: calc(50% - 40px);
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+//Ejercicio 4
+.p1{
+  position: absolute;
+  top: 40px;
+  padding: 0 80px 0 0;
+}
+
+.main{
+  height: 220px;
+}
+
+.main__paragraph{
+  position: absolute;
+  padding: 60px 30px 0 50px;
+  
+}
+
+//ejercicio 5
+.img-one{
+
+}
+.img-two{
+  position: absolute;
+  top: 15px;
+  left: -10px;
+
 }
