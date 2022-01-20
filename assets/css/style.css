@@ -165,4 +165,14 @@ body * {
   left: calc(100% - 69px);
 }
 
+.bg-li {
+  background-color: black;
+  color: #ffff;
+}
+
+.ej-8 {
+  position: absolute;
+  top: 40px;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -44,77 +44,77 @@
 
 //ejercicio 3
 //Bandera Española
-.bandera1{
-    background: red;
-    width: 400px;
-    height: 240px;
+.bandera1 {
+  background: red;
+  width: 400px;
+  height: 240px;
 }
-.amarillo{
-    background: yellow;
-    position: absolute;
-    top: 80px;
-    width: 400px;
-    height: 80px;
+.amarillo {
+  background: yellow;
+  position: absolute;
+  top: 80px;
+  width: 400px;
+  height: 80px;
 }
 //Bandera Dinamarca
-.bandera2{
-    background: red;
-    width: 400px;
-    height: 240px;
+.bandera2 {
+  background: red;
+  width: 400px;
+  height: 240px;
 }
-.blancoh{
-    background: #ffff;
-    position: relative;
-    top: 100px;
-    width: 400px;
-    height: 20px;
+.blancoh {
+  background: #ffff;
+  position: relative;
+  top: 100px;
+  width: 400px;
+  height: 20px;
 }
-.blancov{
-    background: #ffff;
-    position: relative;
-    top: -20px;
-    left: 120px;
-    width: 20px;
-    height: 240px;
+.blancov {
+  background: #ffff;
+  position: relative;
+  top: -20px;
+  left: 120px;
+  width: 20px;
+  height: 240px;
 }
 //Bandera Emiratos Arabes
-.bandera3{
-    background: red;
-    width: 400px;
-    height: 240px;
+.bandera3 {
+  background: red;
+  width: 400px;
+  height: 240px;
 }
-.ea1{
-    background: green;
-    position: relative;
-    top: 0;
-    left: 100px;
-    width: 300px;
-    height: 80px;
+.ea1 {
+  background: green;
+  position: relative;
+  top: 0;
+  left: 100px;
+  width: 300px;
+  height: 80px;
 }
-.ea2{
-    background:#ffff;
-    position: relative;
-    top: 0;
-    left: 100px;
-    width: 300px;
-    height: 80px;
+.ea2 {
+  background: #ffff;
+  position: relative;
+  top: 0;
+  left: 100px;
+  width: 300px;
+  height: 80px;
 }
-.ea3{
-    background: black;
-    position: relative;
-    top: 0;
-    left: 100px;
-    width: 300px;
-    height: 80px;
+.ea3 {
+  background: black;
+  position: relative;
+  top: 0;
+  left: 100px;
+  width: 300px;
+  height: 80px;
 }
 
-.bandera4{
+.bandera4 {
   background: white;
   width: 400px;
   height: 240px;
   border: 1px solid black;
 }
-.jp1{
+.jp1 {
   background: red;
   position: relative;
   top: calc(50% - 40px);
@@ -128,39 +128,47 @@
   -o-border-radius: 50%;
 }
 //Ejercicio 4
-.p1{
+.p1 {
   position: absolute;
   top: 40px;
   padding: 0 80px 0 0;
 }
 
-.main{
+.main {
   height: 220px;
 }
 
-.main__paragraph{
+.main__paragraph {
   position: absolute;
   padding: 60px 30px 0 50px;
-  
 }
 
 //ejercicio 5
 
-.img-two{
+.img-two {
   position: absolute;
   top: 15px;
   left: -10px;
-
 }
 //ejercicio 6
-.ribbon-ej6{
+.ribbon-ej6 {
   position: absolute;
   top: 300px;
   left: 275px;
 }
 
 //ejercicio 7
-.ribbon-ej7{
+.ribbon-ej7 {
   position: absolute;
   left: calc(100% - 69px);
+}
+//Ejercicio 8
+.bg-li {
+  background-color: black;
+  color: #ffff;
+}
+.ej-8 {
+  position: absolute;
+  top: 40px;
+ 
 }
