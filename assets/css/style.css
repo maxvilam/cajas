@@ -160,4 +160,9 @@ body * {
   left: 275px;
 }
 
+.ribbon-ej7 {
+  position: absolute;
+  left: calc(100% - 69px);
+}
+
 /*# sourceMappingURL=style.css.map */
